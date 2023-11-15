@@ -1,4 +1,15 @@
 .bg-hero-image {
-    background-image: url('https://picsum.photos/1300/500');
+    background-color: rgb(255, 232, 240);
     background-position: center center;
+}
+
+body {
+    background: url('https://cdn.wallpapersafari.com/95/80/w2KOyG.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav {
+    color: white;
 }
