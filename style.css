@@ -1,5 +1,5 @@
 .bg-hero-image {
-    background-color: rgb(255, 232, 240);
+    background-color: rgba(255, 232, 240, 0.63);
     background-position: center center;
 }
 
@@ -11,5 +11,5 @@ body {
 }
 
 .nav {
-    color: white;
+    color: rgba(255, 255, 255, 0.637)55, 255, 255);
 }
